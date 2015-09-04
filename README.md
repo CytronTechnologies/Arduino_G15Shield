@@ -1,7 +1,11 @@
 # Arduino_G15Shield
 <b>Description:</b><br/>
-Arduino sample sketch to test G15 Cube servo.<br/>
-Test Menu:
+Arduino sample sketch for G15 Cube servo.<br/>
+
+<b>Tutorial:</b>
+<ul><li><a href="http://tutorial.cytron.com.my/2014/07/17/testing-your-cube-servo/" target="_blank">G15 Arduino DIY Control Panel</a><br/>
+<ul><li>Folder name:G15 test</li></ul>
+<ul><li>Test Menu:
 <ol>
 <li>Selection 0, G15 ID Set</li>
 <li>Selection 1, G15 Auto Test</li>
@@ -10,9 +14,10 @@ Test Menu:
 <li>Selection 4, Wheel Mode</li>
 <li>Selection 5, Encoder Mode</li>
 <li>Selection 6, Factory Reset</li>
-</ol>
-<b>Tutorial:</b>
-<ul><li><a href="http://tutorial.cytron.com.my/2014/07/17/testing-your-cube-servo/" target="_blank">G15 Arduino DIY Control Panel</a></li></ul>
+</ol></li></ul></li>
+<li><a href="http://tutorial.cytron.com.my/2013/03/19/g15-cube-servo-on-mobile-robot/" target="_blank">G15 Cube Servo on Mobile Robot</a><ul><li>Folder name:<ol><li> Simple Movement</li><li>SKPS Control</li></ol></li></ul></li>
+
+</ul>
 <b>Hardware:</b>
 <ul><li><a href="http://cytron.com.my/p-g15" target="_blank">G15 Cube Servo</a></li>
 <li><a href="http://cytron.com.my/p-shield-g15" target="_blank">Shield G15</a></li>
